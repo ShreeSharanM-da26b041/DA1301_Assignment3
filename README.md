@@ -9,4 +9,7 @@ I am **Shree Sharan M**, a first-year **AI and Data Science student at IITM**.
 ### Git & Version Control
 What I find cool about **Git** is that it tracks everything, it is basically the **ultimate safety net**.
 
-**Most Used Command:** `git add`
+**Most Used Command:** `git add`    
+### What I Learned   
+I am learning how Git and GitHub work together.
+
